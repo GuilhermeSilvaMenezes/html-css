@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+header h1{
+    font-size: 3em;
+}
+header a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+main{
+    max-width: 500px;
+    min-width: 120px;
+    padding: 50px;
+
+}
+main p{
+    font-size: 1.8em;
+    line-height: 2em;
+    margin: 20px;
+    margin-top: 120px;
+}
+main p#umg{
+    background-color: black;
+}
